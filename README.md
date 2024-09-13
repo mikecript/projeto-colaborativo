@@ -1,6 +1,7 @@
-# projeto-colaborativo
+# Projeto Colaborativo
 
+Descrição breve do projeto.
 
-# colaboradores
+## Colaboradores
 
-Maicol Douglas Santos Pereira da Silva
+- MAICOL DOUGLAS SANTOS PEREIRA DA SILVA
